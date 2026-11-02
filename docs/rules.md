@@ -1,4 +1,4 @@
-# Working in this repository
+# Rules
 
 - Pull requests are turned off during early development. Commit straight
   to `main` and push.
