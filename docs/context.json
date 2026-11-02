@@ -1,6 +1,7 @@
 {
   "system": [
-    "docs/architecture.md"
+    "docs/architecture.md",
+    "docs/rules.md"
   ],
   "exclude": []
 }
