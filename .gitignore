@@ -1,0 +1,13 @@
+.DS_Store
+
+# Local-only agent memory
+.memory/
+**/MEMORY.md
+
+# Generated agent context and skill indexes: edit the sources in docs/context.json, then regenerate
+AGENTS.md
+AGENTS.local.md
+CLAUDE.md
+.skills/
+docs/skills.local.json
+**/SKILLS.md
